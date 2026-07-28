@@ -466,7 +466,7 @@ button:hover {
   cursor: pointer;
   transform: translateY(-1px);
 }
-#view-btn{
+.view-btn{
   background-color: #7600bc;
   color:#e0e0e0;
 }
